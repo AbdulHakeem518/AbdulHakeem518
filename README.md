@@ -1,33 +1,37 @@
 # About Me?
 
-👋 Hi, I’m a certified top-rated Front-end and WordPress Developer. I've been working since 2016. I've good experience in website design and development. for example in WordPress, custom theme development, eCommerce, Woocommerce, Elementor, Divi, WP bakery, speed optimization, responsiveness, pixel-perfect conversion with SEO friendly and W3C validated code structure.
+👋 Hi, I’m a certified top-rated award winner front-end and WordPress web developer working since 2016 and I've extensive experience in website or landing pages design and development like in WordPress, custom theme development, eCommerce, Woocommerce, Elementor Pro, Divi, WP bakery, speed optimization, responsiveness, pixel-perfect conversion with SEO friendly and W3C validated code structure.
 
 # My Skill
 
-- ✔ HTML5 / CSS3
-- ✔ SASS/SCSS/LESS
-- ✔ Bootstrap
-- ✔ JQuery
-- ✔ JavaScript
-- ✔ WordPress
-- ✔ PHP
-- ✔ MySql
-- ✔ Rest API or WooCommerce API's
-- ✔ Payment Gateway integration like Stripe, 2checkout, Payson, etc
-- ✔ AMP (Accelerated mobile pages)
-- ✔ Angular
-- ✔ Vue.js
-- ✔ Divi
-- ✔ Elementor
-- ✔ Photoshop, Adobe XD, Figma
+- HTML5 / CSS3
+- SASS/SCSS/LESS
+- Bootstrap
+- JQuery
+- JavaScript
+- WordPress
+- PHP
+- MySql
+- Rest API or WooCommerce API's
+- Payment Gateway integration like Stripe, 2checkout, Payson, etc
+- AMP (Accelerated mobile pages)
+- Angular
+- Vue.js
+- Divi
+- Elementor Pro
+- Photoshop, Adobe XD, Figma
 
+# What I can do
 
-- 
-- 
-- 
-- 
+- PSD, XD, or Figm to WordPress
+- PSD, XD, or Figm to HTML using HTML5, CSS3, Bootstrap5, Jquery, SCSS, Vue.js, Angular, and awesome animations
+- Custom WordPress theme development
+- Custom Solutions
+- Theme development using Elementor Pro
+- A lot of more things.
 
-<!---
-AbdulHakeem518/AbdulHakeem518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I'm available on following freelance platforms
+
+- Upwork.com
+- Fiverr.com
+- freelancer.com
