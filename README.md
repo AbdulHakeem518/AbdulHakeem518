@@ -1,6 +1,6 @@
-# About Me?
+# About Me?ss
 
-👋 Hi, I’m a certified top-rated award winner front-end and WordPress web developer working since 2016 and I've extensive experience in website or landing pages design and development like in WordPress, custom theme development, eCommerce, Woocommerce, Elementor Pro, Divi, WP bakery, speed optimization, responsiveness, pixel-perfect conversion with SEO friendly and W3C validated code structure.
+👋 Hi, I’m a certified top-rated award winner Full stack web developer ( including front-end + back-end + WordPress ) working since 2016 and I've extensive experience in applications, websites, landing pages design and development like in WordPress, custom theme development, eCommerce, Woocommerce, Elementor Pro, Divi, WP bakery, speed optimization, responsiveness, pixel-perfect conversion with SEO friendly and W3C validated code structure.
 
 # My Skill
 
