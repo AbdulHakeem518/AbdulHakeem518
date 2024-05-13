@@ -45,3 +45,30 @@ Ready to bring your vision to life? I'm available for projects on leading freela
 - Freelancer.com
 
 Feel free to reach out, and let's discuss how we can collaborate to achieve your goals!
+
+
+import matplotlib.pyplot as plt
+
+# Skill set data
+skills = ['HTML5/CSS3', 'SASS/SCSS/LESS', 'Bootstrap', 'jQuery', 'JavaScript', 'WordPress', 'PHP', 'MySQL', 'Rest API/WooCommerce API', 'Payment Gateway Integration', 'AMP', 'Angular', 'Vue.js', 'Divi', 'Elementor Pro', 'Photoshop/Adobe XD/Figma']
+skill_levels = [8, 7, 7, 7, 8, 9, 8, 8, 8, 7, 6, 6, 6, 8, 9, 7]  # Skill levels out of 10
+
+# Freelance platforms data
+platforms = ['Upwork.com', 'Fiverr.com', 'Freelancer.com']
+availability = [True, True, True]  # Availability status (True/False)
+
+# Plotting skill set pie chart
+plt.figure(figsize=(10, 5))
+plt.pie(skill_levels, labels=skills, autopct='%1.1f%%')
+plt.title('Skill Set Distribution')
+plt.axis('equal')
+plt.show()
+
+# Plotting freelance platforms bar chart
+plt.figure(figsize=(8, 5))
+plt.bar(platforms, availability, color=['blue', 'green', 'orange'])
+plt.title('Availability on Freelance Platforms')
+plt.xlabel('Freelance Platforms')
+plt.ylabel('Availability')
+plt.show()
+
