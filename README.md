@@ -1,37 +1,47 @@
-# About Me?
+## Welcome to My Profile!
 
-👋 Hi, I’m a certified top-rated award winner Full stack web developer ( including front-end + back-end + WordPress ) working since 2016 and I've extensive experience in applications, websites, landing pages design and development like in WordPress, custom theme development, eCommerce, Woocommerce, Elementor Pro, Divi, WP bakery, speed optimization, responsiveness, pixel-perfect conversion with SEO friendly and W3C validated code structure.
+👋 Hello there! I'm a certified, top-rated, award-winning Full Stack Web Developer with a passion for crafting exceptional digital experiences. With over eight years of hands-on experience since 2016, I specialize in creating dynamic applications, captivating websites, and engaging landing pages. My expertise spans across the entire spectrum of web development, including front-end, back-end, and WordPress customization.
 
-# My Skill
+### Why Choose Me?
+
+- **Extensive Expertise:** I bring a wealth of knowledge in various domains, including WordPress, custom theme development, eCommerce solutions, and more.
+- **Craftsmanship:** I take pride in delivering pixel-perfect designs with a focus on speed optimization, responsiveness, and SEO-friendly coding practices.
+- **Versatility:** Whether it's building a custom WordPress theme, integrating complex APIs, or designing sleek interfaces with tools like Elementor Pro and Divi, I'm equipped to handle it all.
+- **Client Satisfaction:** My track record as a top-rated freelancer speaks volumes about my commitment to delivering high-quality work that exceeds expectations.
+
+### My Skill Set Includes:
 
 - HTML5 / CSS3
 - SASS/SCSS/LESS
 - Bootstrap
-- JQuery
+- jQuery
 - JavaScript
 - WordPress
 - PHP
-- MySql
+- MySQL
 - Rest API or WooCommerce API's
-- Payment Gateway integration like Stripe, 2checkout, Payson, etc
-- AMP (Accelerated mobile pages)
+- Payment Gateway Integration (Stripe, 2checkout, Payson, etc)
+- AMP (Accelerated Mobile Pages)
 - Angular
 - Vue.js
 - Divi
 - Elementor Pro
 - Photoshop, Adobe XD, Figma
 
-# What I can do
+### What I Can Do for You:
 
-- PSD, XD, or Figm to WordPress
-- PSD, XD, or Figm to HTML using HTML5, CSS3, Bootstrap5, Jquery, SCSS, Vue.js, Angular, and awesome animations
-- Custom WordPress theme development
-- Custom Solutions
-- Theme development using Elementor Pro
-- A lot of more things.
+- Seamlessly convert PSD, XD, or Figma designs into fully functional WordPress websites.
+- Transform design concepts into responsive HTML using cutting-edge technologies like HTML5, CSS3, Bootstrap5, jQuery, SCSS, Vue.js, Angular, and stunning animations.
+- Develop custom WordPress themes tailored to your specific needs.
+- Provide innovative solutions and expert guidance throughout the development process.
+- Create dynamic websites using Elementor Pro, ensuring a user-friendly editing experience for clients.
 
-# I'm available on following freelance platforms
+### Let's Connect!
+
+Ready to bring your vision to life? I'm available for projects on leading freelance platforms, including:
 
 - Upwork.com
 - Fiverr.com
-- freelancer.com
+- Freelancer.com
+
+Feel free to reach out, and let's discuss how we can collaborate to achieve your goals!
