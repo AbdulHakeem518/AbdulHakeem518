@@ -48,41 +48,24 @@ Feel free to reach out, and let's discuss how we can collaborate to achieve your
 
 
 <!-- Skill Set Distribution -->
-<h2>Skill Set Distribution</h2>
-<div class="chart">
-  <div class="skill" style="width: 80%;">HTML5/CSS3</div>
+<h2 style="margin-top: 0;">Skill Set Distribution</h2>
+<div class="chart" style="width: 100%; margin-bottom: 10px; height: 20px; background-color: #f0f0f0; border-radius: 5px;">
+  <div class="skill" style="height: 100%; line-height: 20px; text-align: center; border-radius: 5px; background-color: #3498db; color: #fff; width: 80%;">HTML5/CSS3</div>
 </div>
-<div class="chart">
-  <div class="skill" style="width: 70%;">SASS/SCSS/LESS</div>
+<div class="chart" style="width: 100%; margin-bottom: 10px; height: 20px; background-color: #f0f0f0; border-radius: 5px;">
+  <div class="skill" style="height: 100%; line-height: 20px; text-align: center; border-radius: 5px; background-color: #3498db; color: #fff; width: 70%;">SASS/SCSS/LESS</div>
 </div>
 <!-- Add more skills as needed -->
 
 <!-- Availability on Freelance Platforms -->
 <h2>Availability on Freelance Platforms</h2>
-<div class="chart">
-  <div class="platform" style="width: 80%;">Upwork.com</div>
+<div class="chart" style="width: 100%; margin-bottom: 10px; height: 20px; background-color: #f0f0f0; border-radius: 5px;">
+  <div class="platform" style="height: 100%; line-height: 20px; text-align: center; border-radius: 5px; background-color: #3498db; color: #fff; width: 80%;">Upwork.com</div>
 </div>
-<div class="chart">
-  <div class="platform" style="width: 80%;">Fiverr.com</div>
+<div class="chart" style="width: 100%; margin-bottom: 10px; height: 20px; background-color: #f0f0f0; border-radius: 5px;">
+  <div class="platform" style="height: 100%; line-height: 20px; text-align: center; border-radius: 5px; background-color: #3498db; color: #fff; width: 80%;">Fiverr.com</div>
 </div>
-<div class="chart">
-  <div class="platform" style="width: 80%;">Freelancer.com</div>
+<div class="chart" style="width: 100%; margin-bottom: 10px; height: 20px; background-color: #f0f0f0; border-radius: 5px;">
+  <div class="platform" style="height: 100%; line-height: 20px; text-align: center; border-radius: 5px; background-color: #3498db; color: #fff; width: 80%;">Freelancer.com</div>
 </div>
 
-<style>
-  .chart {
-    width: 100%;
-    margin-bottom: 10px;
-    height: 20px;
-    background-color: #f0f0f0;
-    border-radius: 5px;
-  }
-  .skill, .platform {
-    height: 100%;
-    line-height: 20px;
-    text-align: center;
-    border-radius: 5px;
-    background-color: #3498db;
-    color: #fff;
-  }
-</style>
