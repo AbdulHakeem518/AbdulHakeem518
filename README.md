@@ -46,26 +46,3 @@ Ready to bring your vision to life? I'm available for projects on leading freela
 
 Feel free to reach out, and let's discuss how we can collaborate to achieve your goals!
 
-
-<!-- Skill Set Distribution -->
-<h2 style="margin-top: 0;">Skill Set Distribution</h2>
-<div class="chart" style="background-color: #f0f0f0; border-radius: 5px;">
-  <div class="skill" style="background-color: #3498db; color: #fff; width: 80%;">HTML5/CSS3</div>
-</div>
-<div class="chart" style="background-color: #f0f0f0; border-radius: 5px;">
-  <div class="skill" style="background-color: #3498db; color: #fff; width: 70%;">SASS/SCSS/LESS</div>
-</div>
-<!-- Add more skills as needed -->
-
-<!-- Availability on Freelance Platforms -->
-<h2>Availability on Freelance Platforms</h2>
-<div class="chart" style="background-color: #f0f0f0; border-radius: 5px;">
-  <div class="platform" style="background-color: #3498db; color: #fff; width: 80%;">Upwork.com</div>
-</div>
-<div class="chart" style="background-color: #f0f0f0; border-radius: 5px;">
-  <div class="platform" style="background-color: #3498db; color: #fff; width: 80%;">Fiverr.com</div>
-</div>
-<div class="chart" style="background-color: #f0f0f0; border-radius: 5px;">
-  <div class="platform" style="background-color: #3498db; color: #fff; width: 80%;">Freelancer.com</div>
-</div>
-
