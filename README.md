@@ -47,43 +47,42 @@ Ready to bring your vision to life? I'm available for projects on leading freela
 Feel free to reach out, and let's discuss how we can collaborate to achieve your goals!
 
 
-<body>
-  <h2>Skill Set Distribution</h2>
-  <svg width="400" height="400">
-    <!-- Skill pie chart -->
-    <circle cx="200" cy="200" r="150" fill="none" stroke="#fff" stroke-width="2"></circle>
-    <circle cx="200" cy="200" r="150" fill="none" stroke="#f0f0f0" stroke-width="20"></circle>
-    <!-- Calculate angles for pie slices -->
-    <script>
-      let skills = ['HTML5/CSS3', 'SASS/SCSS/LESS', 'Bootstrap', 'jQuery', 'JavaScript', 'WordPress', 'PHP', 'MySQL', 'Rest API/WooCommerce API', 'Payment Gateway Integration', 'AMP', 'Angular', 'Vue.js', 'Divi', 'Elementor Pro', 'Photoshop/Adobe XD/Figma'];
-      let skillLevels = [8, 7, 7, 7, 8, 9, 8, 8, 8, 7, 6, 6, 6, 8, 9, 7];
-      let total = skillLevels.reduce((acc, val) => acc + val, 0);
-      let startAngle = -Math.PI / 2; // Start from top
-      for (let i = 0; i < skills.length; i++) {
-        let angle = (skillLevels[i] / total) * Math.PI * 2; // Calculate angle
-        let endAngle = startAngle + angle; // End angle of slice
-        let x1 = 200 + Math.cos(startAngle) * 150; // X-coordinate of start point
-        let y1 = 200 + Math.sin(startAngle) * 150; // Y-coordinate of start point
-        let x2 = 200 + Math.cos(endAngle) * 150; // X-coordinate of end point
-        let y2 = 200 + Math.sin(endAngle) * 150; // Y-coordinate of end point
-        let largeArcFlag = angle > Math.PI ? 1 : 0; // Large arc flag for SVG path
-        let path = `<path d="M 200 200 L ${x1} ${y1} A 150 150 0 ${largeArcFlag} 1 ${x2} ${y2} Z" fill="#${Math.floor(Math.random()*16777215).toString(16)}"></path>`; // SVG path for pie slice
-        document.querySelector('svg').innerHTML += path;
-        startAngle = endAngle; // Update start angle for next slice
-      }
-    </script>
-  </svg>
+<!-- Skill Set Distribution -->
+<h2>Skill Set Distribution</h2>
+<div class="chart">
+  <div class="skill" style="width: 80%;">HTML5/CSS3</div>
+</div>
+<div class="chart">
+  <div class="skill" style="width: 70%;">SASS/SCSS/LESS</div>
+</div>
+<!-- Add more skills as needed -->
 
-  <h2>Availability on Freelance Platforms</h2>
-  <svg width="400" height="200">
-    <!-- Availability bar chart -->
-    <rect x="50" y="20" width="100" height="40" fill="#3498db"></rect> <!-- Upwork -->
-    <rect x="200" y="20" width="100" height="40" fill="#2ecc71"></rect> <!-- Fiverr -->
-    <rect x="350" y="20" width="100" height="40" fill="#e67e22"></rect> <!-- Freelancer -->
-    <text x="60" y="55" fill="#fff">Upwork</text>
-    <text x="210" y="55" fill="#fff">Fiverr</text>
-    <text x="360" y="55" fill="#fff">Freelancer</text>
-    <text x="10" y="30" fill="#000">Availability</text>
-    <text x="10" y="60" fill="#000">(True/False)</text>
-  </svg>
-</body>
+<!-- Availability on Freelance Platforms -->
+<h2>Availability on Freelance Platforms</h2>
+<div class="chart">
+  <div class="platform" style="width: 80%;">Upwork.com</div>
+</div>
+<div class="chart">
+  <div class="platform" style="width: 80%;">Fiverr.com</div>
+</div>
+<div class="chart">
+  <div class="platform" style="width: 80%;">Freelancer.com</div>
+</div>
+
+<style>
+  .chart {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  .skill, .platform {
+    height: 100%;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #fff;
+  }
+</style>
